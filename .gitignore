@@ -1,0 +1,13 @@
+# SpiderFoot Docker Tutorial - Git Ignore
+# Proteksi data sensitif & cache Docker
+
+.env
+docker-compose.override.yml
+.spiderfoot/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+/htmlcov
+.increase_knowledge
